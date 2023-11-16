@@ -20,21 +20,22 @@ In the past, I have spent some amazing time interning at Walmart Labs (Summer 20
 News
 ======
 ---
-- [09/2023] I joined [PLUS Lab](https://vnpeng.net/group/) as a Research Associate advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
+:mushroom: **November 2023:** Meet me at [Socal NLP 2023](https://socalnlp.github.io/symp23/index.html) where I present my work with Questions Under Discussion
+  
+:mushroom: **September 2023:** I joined [PLUS Lab](https://vnpeng.net/group/) as a Research Associate advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
 
-- [07/2023] Meet me at ACL 2023 (Toronto, Canada) -- my first in-person conference!
+:mushroom: **July 2023:** Meet me at ACL 2023 (Toronto, Canada) -- my first in-person conference!
 
 
-<br/><br/>
+<br/>
 
-
-Services
+Service
 ======
 ---
 
-- Programme Committee / Reviewer: ACL-SRW 2023, NAACL-SRW 2023, ICLR Tiny Papers 2023 <br/>
+- **Programme Committee / Reviewer:** ACL-SRW 2023, NAACL-SRW 2023, ICLR Tiny Papers 2023 <br/>
 
-- Rewards Committee: SoCal NLP Symposium 2023 <br/>
+- **Rewards Committee:** SoCal NLP Symposium 2023 <br/>
 
 
 <br/>
