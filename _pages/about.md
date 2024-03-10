@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ashima, a Research Associate at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/). I completed my MS from the department of Computer Science as a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles. I also collaborate with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) at UCLA NLP. 
+This is Ashima, a Research Associate at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/). I also work closely with [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/) I completed my MS from the department of Computer Science as a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles. I also collaborate with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) at UCLA NLP. 
 
 In the past, I have spent some amazing time interning at Walmart Labs (Summer 2022), University of New Brunswick as a Mitacs Scholar (Summer 2019) and IBM Research India (2018). My  research focuses on topics including **Discourse Understanding** and  **Linguistic Evaluation of LLMs**. I am also broadly interested in **Creative Generation** and **Evaluation** using LLMs.
 
