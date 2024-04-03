@@ -22,7 +22,7 @@ In the past, I have spent some amazing time interning at Walmart Labs (Summer 20
 News
 ======
 ---
-🍄 **April 2024** New Preprint out on [Surveying Bias in T2I Models](https://arxiv.org/abs/2404.01030)).
+🍄 **April 2024** New Preprint out on [Surveying Bias in T2I Models](https://arxiv.org/abs/2404.01030).
 
 🍄 **April 2024** New Preprint out on [Joint Instruction-Response Preferences for LLM Alignment](https://arxiv.org/abs/2404.00530).
 
