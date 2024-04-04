@@ -12,7 +12,7 @@ This is Ashima, a Research Associate at UCLA advised by [Prof. Nanyun Peng](http
 
 My research is centered around **preference acquisition for alignment**, **linguistic evaluation of LLMs**, and **hate speech detection**. Additionally, I have also worked on bias evaluation and dicourse understanding. 
 
-In the past, I have spent some amazing time interning at Walmart Labs (Summer 2022), University of New Brunswick as a Mitacs Scholar (Summer 2019) and IBM Research India (2018). My  research focuses on topics including **Discourse Understanding** and  **Linguistic Evaluation of LLMs**. I am also broadly interested in **Creative Generation** and **Evaluation** using LLMs.
+In the past, I have spent some amazing time interning at Walmart Labs (Summer 2022), University of New Brunswick as a Mitacs Scholar (Summer 2019) and IBM Research India (2018).
 
 **Open Office Hours :** If you’d like to chat about research, grad school applications or feedback on essays, please fill out this [form](https://forms.gle/RqpiK85fBZAQ6U4YA).
  
@@ -22,6 +22,8 @@ In the past, I have spent some amazing time interning at Walmart Labs (Summer 20
 News
 ======
 ---
+🍄 **April 2024** New Preprint out on [Evaluating Phonological Skills of LLMs](https://arxiv.org/abs/2404.02456).
+
 🍄 **April 2024** New Preprint out on [Surveying Bias in T2I Models](https://arxiv.org/abs/2404.01030).
 
 🍄 **April 2024** New Preprint out on [Joint Instruction-Response Preferences for LLM Alignment](https://arxiv.org/abs/2404.00530).
