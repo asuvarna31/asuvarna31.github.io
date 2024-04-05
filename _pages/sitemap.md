@@ -1,37 +1,21 @@
 ---
-layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+layout: pubs
+title: "Publications"
+permalink: /pubs/
 author_profile: true
 ---
+<div class="preprints">
+  <h1>PREPRINTS</h1>
+  <img src="/images/dove_image.png" alt="Joint Preference Optimization Graphic">
+   <h3>Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization.</h3>
+  <p>Hritik Bansal, Ashima Suvarna, Gantavya Bhatt, Nanyun Peng, Kai-Wei Chang, Aditya Grover.</p>
+ 
+  <a href="https://dove-alignment.github.io/" target="_blank">Website</a> |
+  <a href="https://github.com/Hritikbansal/dove" target="_blank">Code</a> |
+  <a href="https://arxiv.org/abs/2404.00530" target="_blank">Paper</a>
 
-{% include base_path %}
-
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
-
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+  <img src="/images/survey_image.png" alt="Gender bias table from paper">
+   <h3>Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation.</h3>
+  <p>Yixin Wan, Arjun Subramonian, Anaelia Ovalle, Zongyu Lin, Ashima Suvarna, Christina Chance, Hritik Bansal, Rebecca Pattichis, Kai-Wei Chang.</p>
+  <a href="https://arxiv.org/abs/2404.01030" target="_blank">Paper</a>
+</div>
