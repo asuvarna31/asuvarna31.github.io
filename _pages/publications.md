@@ -21,4 +21,8 @@ I Read Books !!
 - The Kite Runner by Khaled Hosseini
 - [The God of Small Things](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things) by Arundhati Roy
 - [Nightfall](https://www.astro.sunysb.edu/fwalter/AST389/TEXTS/Nightfall.htm) by Issac Asimov (My favourite story !!)
+- [The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X) by Judea Pearl
+- [The Book of Lost Names](https://www.amazon.com/Book-Lost-Names-Kristin-Harmel/dp/1982131896) by Kristin Harmel
+- [Life of Pi](https://www.goodreads.com/book/show/4214.Life_of_Pi) by Yann Martel
+- [The White Tiger](https://www.amazon.com/White-Tiger-Novel-Aravind-Adiga/dp/1416562605) by Aravind Adiga
 
