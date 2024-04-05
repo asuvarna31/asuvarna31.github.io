@@ -1,17 +1,24 @@
 ---
-layout: archive
-permalink: /categories/
-title: "Posts by Category"
-author_profile: true
+layout: default
+title: Joint Preference Optimization
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+<div class="preprints">
+  <h1>PREPRINTS</h1>
+  <img src="{{ '/path/to/image/Screen Shot 2024-04-04 at 10.22.27 PM.png' | relative_url }}" alt="Joint Preference Optimization Graphic">
+  <h2>Hritik Bansal, Ashima Suvarna, Gantavya Bhatt, Nanyun Peng, Kai-Wei Chang, Aditya Grover.</h2>
+  <p>Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization.</p>
+  <a href="{{ site.baseurl }}/website" target="_blank">Website</a> |
+  <a href="{{ site.baseurl }}/summary" target="_blank">Summary</a> |
+  <a href="{{ site.baseurl }}/code" target="_blank">Code</a>
+</div>
 
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+<div class="preprints">
+  <h1>PREPRINTS</h1>
+  <img src="{{ '/path/to/image/Screen Shot 2024-04-04 at 10.22.27 PM.png' | relative_url }}" alt="Joint Preference Optimization Graphic">
+  <h2>Hritik Bansal, Ashima Suvarna, Gantavya Bhatt, Nanyun Peng, Kai-Wei Chang, Aditya Grover.</h2>
+  <p>Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization.</p>
+  <a href="{{ site.baseurl }}/website" target="_blank">Website</a> |
+  <a href="{{ site.baseurl }}/summary" target="_blank">Summary</a> |
+  <a href="{{ site.baseurl }}/code" target="_blank">Code</a>
+</div>
