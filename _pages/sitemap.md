@@ -6,7 +6,7 @@ author_profile: true
 ---
 <div class="preprints">
   <h1>PREPRINTS</h1>
-  <img src="/images/dove_image.png" alt="Joint Preference Optimization Graphic width="20%">
+  <img src="/images/dove_image.png" alt="Joint Preference Optimization Graphic" width="20%">
    <h3>Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization.</h3>
   <p>Hritik Bansal, Ashima Suvarna, Gantavya Bhatt, Nanyun Peng, Kai-Wei Chang, Aditya Grover.</p>
  
