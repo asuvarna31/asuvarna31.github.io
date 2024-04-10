@@ -10,6 +10,14 @@ Preprints
 ===
 
 <div class="preprints">
+  <img src="/images/phone_image.png" alt="PhonologyBench Graphic" width="40%">
+  <h3>PhonologyBench: Evaluating Phonological Skills of Large Language Models.</h3>
+  <p>Ashima Suvarna, Harshita Khandelwal, Nanyun Peng.</p>
+   📜 <a href="https://arxiv.org/abs/2404.02456" color="CornflowerBlue">Paper</a> |
+  🐦 <a href="https://x.com/suvarna_ashima/status/1777841777464295779" color="CornflowerBlue">Tweet</a>
+</div> <br>
+
+<div class="preprints">
   <img src="/images/dove_image.png" alt="Joint Preference Optimization Graphic" width="40%">
   <h3>Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization.</h3>
   <p>Hritik Bansal, Ashima Suvarna, Gantavya Bhatt, Nanyun Peng, Kai-Wei Chang, Aditya Grover.</p>
