@@ -10,7 +10,7 @@ Preprints
 ===
 
 <div class="preprints">
-  <img src="/images/phone_image.png" alt="PhonologyBench Graphic" width="40%">
+  <img src="/images/phone_image.png" alt="PhonologyBench Graphic" width="60%">
   <h3>PhonologyBench: Evaluating Phonological Skills of Large Language Models.</h3>
   <p>Ashima Suvarna, Harshita Khandelwal, Nanyun Peng.</p>
    📜 <a href="https://arxiv.org/abs/2404.02456" color="CornflowerBlue">Paper</a> |
