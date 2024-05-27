@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Ashima, a Research Associate at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I completed my MS from the department of Computer Science as a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles. I also collaborate with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) at UCLA NLP. 
+This is Ashima, an incoming Phd student (Fall 2024) at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I completed my MS from the department of Computer Science as a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles. I also collaborate with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
 
-My research is centered around **preference acquisition for LLM alignment**, **evaluation of LLMs**, and **hate speech detection**. Additionally, I have also worked on **bias evaluation** and **dicourse understanding**. 
+My research is centered around **preference acquisition for LLM alignment**, and **hate speech detection**.
 
 In the past, I have spent some amazing time interning at Walmart Labs (Summer 2022), University of New Brunswick as a Mitacs Scholar (Summer 2019) and IBM Research India (2018).
 
@@ -22,9 +22,9 @@ In the past, I have spent some amazing time interning at Walmart Labs (Summer 20
 News
 ======
 ---
-🍄 **April 2024** New Preprint out on [Evaluating Phonological Skills of LLMs](https://arxiv.org/abs/2404.02456).
+🍄 **April 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) is accepted at ACL 2024!
 
-🍄 **April 2024** New Preprint out on [Surveying Bias in T2I Models](https://arxiv.org/abs/2404.01030).
+🍄 **April 2024** New Preprint out on [Surveying Bias in T2I Models](https://arxiv.org/abs/2404.01030), [Evaluating Phonological Skills of LLMs](https://arxiv.org/abs/2404.02456).
 
 🍄 **April 2024** New Preprint out on [Joint Instruction-Response Preferences for LLM Alignment](https://arxiv.org/abs/2404.00530).
 
@@ -43,7 +43,7 @@ Service
 ======
 ---
 
-- **Programme Committee / Reviewer:** ACL-SRW 2023, NAACL-SRW 2023, ICLR Tiny Papers 2023 <br/>
+- **Programme Committee / Reviewer:** ACL-SRW 2023, NAACL-SRW 2023, ICLR Tiny Papers 2023, NAACL-SRW 2024 <br/>
 
 - **Rewards Committee:** SoCal NLP Symposium 2023 <br/>
 
