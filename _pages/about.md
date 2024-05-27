@@ -22,7 +22,7 @@ In the past, I have spent some amazing time interning at Walmart Labs (Summer 20
 News
 ======
 ---
-🍄 **April 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) is accepted at ACL 2024!
+🍄 **May 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) is accepted at ACL 2024!
 
 🍄 **April 2024** New Preprint out on [Surveying Bias in T2I Models](https://arxiv.org/abs/2404.01030), [Evaluating Phonological Skills of LLMs](https://arxiv.org/abs/2404.02456).
 
