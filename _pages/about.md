@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ashima, an incoming Phd student (Fall 2024) at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I completed my MS from the department of Computer Science as a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles. I also collaborate with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
+This is Ashima, an incoming Phd student (Fall 2024) at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I was a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles during my MSCS. I also collaborate with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
 
 My research is centered around **preference acquisition for LLM alignment**, and **hate speech detection**.
 
