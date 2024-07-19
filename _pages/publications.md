@@ -13,7 +13,7 @@ I Read Books !!
 ======
 - [The Silent Patient](https://www.goodreads.com/en/book/show/40097951) by Alex Michaelides
 - [Lessons in Chemistry](https://www.goodreads.com/book/show/58065033-lessons-in-chemistry/) by Bonnie Garmus
-- [The Seven Husbands of Evelyn Hugo](https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo) by Taylor Jenkins Reid
+- [The Seven Husbands of Evelyn Hugo](https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo) by Taylor Jenkins Reid 
 - [Asuras](https://www.goodreads.com/book/show/13563459-asura/) by Anand Neelkantan
 - [Palace of Illusions](https://www.goodreads.com/book/show/1774836.The_Palace_of_Illusions/) by Chitra Banerjee Divakaruni
 - [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief/) by Markus Zusak
@@ -25,4 +25,7 @@ I Read Books !!
 - [The Book of Lost Names](https://www.amazon.com/Book-Lost-Names-Kristin-Harmel/dp/1982131896) by Kristin Harmel
 - [Life of Pi](https://www.goodreads.com/book/show/4214.Life_of_Pi) by Yann Martel
 - [The White Tiger](https://www.amazon.com/White-Tiger-Novel-Aravind-Adiga/dp/1416562605) by Aravind Adiga
+- [The Housemaid](https://www.goodreads.com/book/show/60556912-the-housemaid) by Frieda McFadden - *This book was exceedingly addictive. It transported me to the Long Island house where Millie 
+  the housemaid, serves Nina a spoilt moody housewife and Andrew the dashing sweet rich guy who 
+  dotes on his wife. What follows is a series of twists and turns that captivates you!*
 
