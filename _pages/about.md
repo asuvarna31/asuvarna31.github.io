@@ -10,7 +10,7 @@ redirect_from:
 
 This is Ashima, an incoming Phd student (Fall 2024) at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I was a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles during my MSCS. I also collaborate with [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
 
-My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair. My research achieves this by focusing on a) fair detection of toxicity and harmful behaviors and b) revisiting preference acquisition protocols for robust LLM alignment. 
+My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair. My research achieves this by focusing on a) **fair detection of toxicity and harmful behaviors** and b) **revisiting preference acquisition protocols for robust LLM alignment**. 
 
 In the past, I have spent some amazing time interning at Walmart Labs (Summer 2022), University of New Brunswick as a Mitacs Scholar (Summer 2019) and IBM Research India (2018).
 
@@ -26,7 +26,7 @@ News
 
 🍄 **August 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) was presented at ACL 2024!
 
-🍄 **July 2024** [DOVE](https://arxiv.org/abs/2404.00530) was presented in DMLR@ICML 2024. [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) is accepted at ACL 2024!
+🍄 **July 2024** [DOVE](https://arxiv.org/abs/2404.00530) was presented in DMLR@ICML 2024.
 
 <br/>
 
