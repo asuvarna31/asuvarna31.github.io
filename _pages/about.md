@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Ashima, an incoming Phd student (Fall 2024) at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I was a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles during my MSCS. I also collaborate with [Prof. Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
+This is Ashima, an incoming Phd student (Fall 2024) at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I was a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles during my MSCS. I also collaborate with [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
 
-My research is centered around **preference acquisition for LLM alignment**, and **hate speech detection**.
+My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair. My research achieves this by focusing on a) fair detection of toxicity and harmful behaviors and b) revisiting preference acquisition protocols for robust LLM alignment. 
 
 In the past, I have spent some amazing time interning at Walmart Labs (Summer 2022), University of New Brunswick as a Mitacs Scholar (Summer 2019) and IBM Research India (2018).
 
@@ -22,20 +22,11 @@ In the past, I have spent some amazing time interning at Walmart Labs (Summer 20
 News
 ======
 ---
-🍄 **May 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) is accepted at ACL 2024!
+🍄 **September 2024** Joining [MARS Lab](https://saadiagabriel.com/mars_lab.html) with [Genglin Liu](https://genglinliu.github.io/cv/), [Salman Rahman](https://www.linkedin.com/in/salman-rahman-853436166/) and [Sheriff Issaka](https://sheriffissaka.com/). 
 
-🍄 **April 2024** New Preprint out on [Surveying Bias in T2I Models](https://arxiv.org/abs/2404.01030), [Evaluating Phonological Skills of LLMs](https://arxiv.org/abs/2404.02456).
+🍄 **August 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) was presented at ACL 2024!
 
-🍄 **April 2024** New Preprint out on [Joint Instruction-Response Preferences for LLM Alignment](https://arxiv.org/abs/2404.00530).
-
-🍄 **March 2024** New Preprint out on [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586).
-
-🍄 **November 2023:** Meet me at [Socal NLP 2023](https://socalnlp.github.io/symp23/index.html) where I present my work with Questions Under Discussion
-  
-🍄 **September 2023:** I joined [PLUS Lab](https://vnpeng.net/group/) as a Research Associate advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
-
-🍄 **July 2023:** Meet me at ACL 2023 (Toronto, Canada) -- my first in-person conference!
-
+🍄 **July 2024** [DOVE](https://arxiv.org/abs/2404.00530) was presented in DMLR@ICML 2024. [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) is accepted at ACL 2024!
 
 <br/>
 
