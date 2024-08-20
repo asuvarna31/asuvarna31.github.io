@@ -14,7 +14,7 @@ My research agenda centers on building equitable and socially responsible AI. As
 
 In the past, I have spent some amazing time interning at Walmart Labs (Summer 2022), University of New Brunswick as a Mitacs Scholar (Summer 2019) and IBM Research India (2018).
 
-**Open Office Hours :** If you’d like to chat about research, grad school applications or feedback on essays, please fill out this [form](https://forms.gle/RqpiK85fBZAQ6U4YA).
+**Open Office Hours :** Mentorship from my collaborators ([Hritik Bansal](https://sites.google.com/view/hbansal), [Xiao Liu](https://xxxiaol.github.io/), [Gantavya Bhatt](https://sites.google.com/view/gbhatt/),[Tanmay Parekh](https://tanmayparekh.github.io/)) has been invaluable in shaping my journey, helping me grow both personally and professionally. Now, I'm committed to giving back to the community through 1:1 sessions, where I hope to offer the same guidance and support that I’ve been fortunate enough to receive. If you’d like to chat about research, grad school applications or feedback on essays, please fill out this [form](https://forms.gle/RqpiK85fBZAQ6U4YA).
  
 <br/>
 
