@@ -12,7 +12,7 @@ This is Ashima, a Phd student at UCLA CS advised by [Prof. Saadia Gabriel](https
 
 My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair. My research achieves this by focusing on a) **fair detection of toxicity and harmful behaviors** and b) **revisiting preference acquisition protocols for robust LLM alignment**. 
 
-**Open Office Hours :** Mentorship from my collaborators ([Hritik Bansal](https://sites.google.com/view/hbansal), [Xiao Liu](https://xxxiaol.github.io/), [Gantavya Bhatt](https://sites.google.com/view/gbhatt/), [Tanmay Parekh](https://tanmayparekh.github.io/)) has been invaluable in shaping my journey, helping me grow both personally and professionally. Now, I'm committed to giving back to the community through 1:1 sessions, where I hope to offer the same guidance and support that I’ve been fortunate enough to receive. If you’d like to chat about research, grad school applications or feedback on essays, please fill out this [form](https://forms.gle/RqpiK85fBZAQ6U4YA).
+**Open Office Hours :** Mentorship from my collaborators ([Hritik Bansal](https://sites.google.com/view/hbansal), [Xiao Liu](https://xxxiaol.github.io/), [Gantavya Bhatt](https://sites.google.com/view/gbhatt/), [Tanmay Parekh](https://tanmayparekh.github.io/)) has been invaluable in shaping my journey, helping me grow both personally and professionally. Now, I'm committed to giving back to the community through 1:1 sessions. If you’d like to chat about research, grad school applications or feedback on essays, please fill out this [form](https://forms.gle/RqpiK85fBZAQ6U4YA).
  
 <br/>
 
