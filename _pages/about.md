@@ -22,11 +22,11 @@ News
 ---
 🍄 **September 2024** Joining [MARS Lab](https://saadiagabriel.com/mars_lab.html) with [Genglin Liu](https://genglinliu.github.io/cv/), [Salman Rahman](https://www.linkedin.com/in/salman-rahman-853436166/) and [Sheriff Issaka](https://sheriffissaka.com/). 
 
-🍄 **August 2024** [QUDSELECT]([https://arxiv.org/pdf/2403.02586](https://arxiv.org/abs/2408.01046)) is now available as a preprint!
+🍄 **August 2024** [QUDSELECT](https://arxiv.org/abs/2408.01046) is now available as a preprint!
 
 🍄 **August 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) was presented at ACL 2024!
 
-🍄 **July 2024** [DOVE](https://arxiv.org/abs/2404.00530) was presented in DMLR@ICML 2024.
+🍄 **July 2024** [DOVE](https://arxiv.org/abs/2404.00530) was presented in DMLR@ICML 2024 as a Oral presentation.
 
 <br/>
 
@@ -34,10 +34,7 @@ Service
 ======
 ---
 
-- **Programme Committee / Reviewer:** ACL-SRW 2023, NAACL-SRW 2023, ICLR Tiny Papers 2023, NAACL-SRW 2024 <br/>
-
-- **Rewards Committee:** SoCal NLP Symposium 2023 <br/>
-
+- **Programme Committee / Reviewer:** ICLR Tiny Papers 2024, SoCal NLP Symposium 2023, Neurips D&B 2024 <br/>
 
 <br/>
 ---
