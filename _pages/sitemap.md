@@ -28,7 +28,7 @@ Accepted Papers
 ===
 <div class="preprints">
   <h3>Improving Event Definition Following For Zero-Shot Event Detection.</h3>
-  Zefan Cai*, Po-Nien Kung*, <b>Ashima Suvarna</b>, Mingyu Derek Ma, Hritik Bansal, Baobao Chang, P. Jeffrey Brantingham, Wei Wang, Nanyun Peng.\n
+  Zefan Cai*, Po-Nien Kung*, <b>Ashima Suvarna</b>, Mingyu Derek Ma, Hritik Bansal, Baobao Chang, P. Jeffrey Brantingham, Wei Wang, Nanyun Peng.
    <b>ACL 2024</b> 
    📜 <a href="https://arxiv.org/pdf/2403.02586" color="CornflowerBlue">Paper</a>
   
