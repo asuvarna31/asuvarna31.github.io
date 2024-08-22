@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ashima, a Phd student at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I was a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles during my MSCS. I also collaborate with [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
+This is Ashima, a PhD student at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). I was a [Deepmind Scholar](https://deepmind.google/about/education/) at the University of California, Los Angeles during my MSCS. I also collaborate with [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA NLP. 
 
 My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair. My research achieves this by focusing on a) **fair detection of toxicity and harmful behaviors** and b) **revisiting preference acquisition protocols for robust LLM alignment**. 
 
@@ -38,19 +38,6 @@ Service
 
 <br/>
 ---
-<br/>
-
-
-
-
-
-
-
-
-<!-- For more info
-======
-- My publications can be found [here](/publications).
-- My contact information can be found [here](/contact). -->
 
 
  
