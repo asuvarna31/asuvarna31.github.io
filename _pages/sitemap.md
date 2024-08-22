@@ -11,16 +11,16 @@ Preprints
 
 <div class="preprints">
   <h3>QUDSELECT: Selective Decoding for Questions Under Discussion Parsing.</h3>
-  <p><b>Ashima Suvarna</b>*, Xiao Liu*,Kai-Wei Chang, Nanyun Peng</p>
+  <b>Ashima Suvarna</b>*, Xiao Liu*,Kai-Wei Chang, Nanyun Peng
   📜 <a href="https://arxiv.org/abs/2408.01046" color="CornflowerBlue">Paper</a>
-  </div><br>
+  </div>
 
 <div class="preprints">
   <h3>Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation.</h3>
-  <p>Yixin Wan, Arjun Subramonian, Anaelia Ovalle, Zongyu Lin, <b>Ashima Suvarna</b>, Christina Chance, Hritik Bansal, Rebecca Pattichis, Kai-Wei Chang.</p>
+  Yixin Wan, Arjun Subramonian, Anaelia Ovalle, Zongyu Lin, <b>Ashima Suvarna</b>, Christina Chance, Hritik Bansal, Rebecca Pattichis, Kai-Wei Chang.
   📜 <a href="https://arxiv.org/abs/2404.01030" color="CornflowerBlue">Paper</a>
   🐦 <a href="https://twitter.com/yixin_wan_/status/1775580933208580139" color="CornflowerBlue">Tweet</a>
-  </div><br>
+  </div>
 
 
 
