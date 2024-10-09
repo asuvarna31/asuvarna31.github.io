@@ -20,13 +20,9 @@ My research agenda centers on building equitable and socially responsible AI. As
 News
 ======
 ---
+🍄 **September 2024** [QUDSELECT](https://arxiv.org/abs/2408.01046) is accepted at EMNLP 2024! I will be in Miami, Florida 11 Nov - 17 Nov, 2024. Checkout publications from my peers - [Misinformation Interventions by LLMs](https://mit-genai.pubpub.org/pub/cnks7gwl/release/1?readingCollection=bc5ea8fc), [LLMs for Mental Health Support](https://arxiv.org/abs/2405.12021), [Knowledge Transfer for Fact Verfication](https://arxiv.org/abs/2407.00369) !!
+
 🍄 **September 2024** Joining [MARS Lab](https://saadiagabriel.com/mars_lab.html) with [Genglin Liu](https://genglinliu.github.io/cv/), [Salman Rahman](https://www.linkedin.com/in/salman-rahman-853436166/) and [Sheriff Issaka](https://sheriffissaka.com/). 
-
-🍄 **August 2024** [QUDSELECT](https://arxiv.org/abs/2408.01046) is now available as a preprint!
-
-🍄 **August 2024** [Zero-Shot Event Detection](https://arxiv.org/pdf/2403.02586) was presented at ACL 2024!
-
-🍄 **July 2024** [DOVE](https://arxiv.org/abs/2404.00530) was presented in DMLR@ICML 2024 as a Oral presentation.
 
 <br/>
 
