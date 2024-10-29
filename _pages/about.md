@@ -20,6 +20,8 @@ My research agenda centers on building equitable and socially responsible AI. As
 News
 ======
 ---
+🍄 **October 2024** UCLA Initiative to Study Hate supports our work on [hate speech detection](https://studyofhate.ucla.edu/2024/10/24/community-grounded-hate-speech-detection/) through their Research Innovation Fund!
+
 🍄 **October 2024** Organizing the [UCLA NLP Seminar Series](https://uclanlp.github.io/nlp-seminar/)! 
 
 🍄 **September 2024** [QUDSELECT](https://arxiv.org/abs/2408.01046) is accepted at ✨EMNLP 2024✨! I will be in Miami, Florida 11 Nov - 17 Nov, 2024. Checkout publications from my peers - [Misinformation Interventions by LLMs](https://mit-genai.pubpub.org/pub/cnks7gwl/release/1?readingCollection=bc5ea8fc), [LLMs for Mental Health Support](https://arxiv.org/abs/2405.12021), [Knowledge Transfer for Fact Verfication](https://arxiv.org/abs/2407.00369) !!
