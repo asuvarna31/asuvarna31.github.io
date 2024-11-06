@@ -1,202 +1,26 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: ""
+permalink: /outreach/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
-## Locations of key files/directories
+UCLA NLP Seminar
+===
+I co-organize the UCLA NLP Seminar Series, a seminar where we invite leading researchers in NLP to share their research. You can explore the current upcoming featured talks [here](https://uclanlp.github.io/nlp-seminar/). 
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+Open Office Hours  
+===
+Mentorship from my collaborators ([Hritik Bansal](https://sites.google.com/view/hbansal), [Xiao Liu](https://xxxiaol.github.io/), [Gantavya Bhatt](https://sites.google.com/view/gbhatt/), [Tanmay Parekh](https://tanmayparekh.github.io/)) has been invaluable in shaping my journey, helping me grow both personally and professionally. Now, I'm committed to giving back to the community through 1:1 sessions. If you’d like to chat about research, grad school applications or feedback on essays, please fill out this [form](https://forms.gle/RqpiK85fBZAQ6U4YA).
 
-## Tips and hints
+Grad School Mentorship
+===
+I am always happy to help with grad school applications. I have personal experience in MS CS and PhD(AI/ML) applications only. I would be limited in capability to mentor for other grad school programs (like MEng. or other niche programs). However, feel free to reach out using this [form](https://forms.gle/RqpiK85fBZAQ6U4YA) and I would be happy to help you!
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+Here are some resources that I found to be helpful during my grad school applications - [Shaily Bhatt's Repository of Resources](https://github.com/shaily99/advice?tab=readme-ov-file), [PhD Applications FAQ by Maria Antoniak (Cornell)](https://maria-antoniak.github.io/2020/11/27/phd-applications.html), [Vlog on how to find CS Programs with CSRankings](https://www.youtube.com/watch?v=hOSl3xPmHiQ), [Application Fee Waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers), [Compilation of CS PhD SOPs](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d). 
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+Research Mentorship
+===
+Typically, if you are an undergrad or MS student at UCLA, hiring for our lab is usually through my advisor. You can express your interest using this [form](https://docs.google.com/forms/d/e/1FAIpQLSd2EKTn7vMy6h_Uvb7bAIvkl4cGkSH3uJvoED84yTaFjKcx9w/viewform) and my advisor or another PhD student would reach out if your interests align. 
 
-## Markdown guide
 
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
