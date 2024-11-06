@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /pubs/
+
+  - title: "Outreach & Mentorship"
+    url: /outreach/
         
   - title: "Miscellaneous"
     url: /misc/
