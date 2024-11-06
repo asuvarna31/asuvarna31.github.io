@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi There!"
+title: 
 excerpt: "Ashima Suvarna"
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ My research agenda centers on building equitable and socially responsible AI. As
 News
 ======
 ---
-🍄 **November 2024** I will be in San Diego to attend SoCAL NLP 2024!
+🍄 **November 2024** I will be in San Diego at SoCAL NLP 2024!
 
 🍄 **November 2024** I will present [QUDSELECT](https://arxiv.org/abs/2408.01046) at ✨EMNLP 2024✨ in Miami 11 Nov - 17 Nov!
 
