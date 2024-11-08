@@ -14,11 +14,8 @@ My research agenda centers on building equitable and socially responsible AI. As
 
 **Awards** <br/>
  ✨ UCLA Computer Science Fellowship 2024 <br/>
- ✨ Deepmind Scholarship 2021-2023 <br/>
- ✨ Mitacs Globalink Research Scholarship 2019 <br/>
-
- 
-<br/>
+ ✨ Google Deepmind Scholarship 2021-2023 (UCLA MSCS) <br/>
+ ✨ Mitacs Globalink Research 2019 <br/>
 
 
 News
