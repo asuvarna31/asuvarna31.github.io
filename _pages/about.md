@@ -17,8 +17,8 @@ My research agenda centers on building equitable and socially responsible AI. As
  ✨ Google Deepmind Scholarship 2021-2023 (UCLA MSCS) <br/>
  ✨ Mitacs Globalink Research 2019 <br/>
 
-<div style="background-color: #6bf211; border-left: 4px solid #6bf211; padding: 15px; margin: 20px 0; border-radius: 4px;">
-**EMNLP 2024:** Presenting QUDSELECT Poster on **November 12, 2024** at **3 PM** in the **Riverfront Hall**.  
+<div style="background-color: #ffd0b5; border-left: 4px solid #ffd0b5; padding: 15px; margin: 20px 0; border-radius: 4px;">
+EMNLP 2024: Presenting QUDSELECT Poster on November 12, 2024 at 3 PM in the Riverfront Hall.  
 </div>
 
 News
