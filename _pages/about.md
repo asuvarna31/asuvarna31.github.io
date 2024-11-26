@@ -24,6 +24,8 @@ My research agenda centers on building equitable and socially responsible AI. As
 News
 ======
 ---
+🍄 **November 2024** [Evalchemy](https://github.com/mlfoundations/evalchemy) toolkit is launched for efficient LLM evaluations!
+
 🍄 **November 2024** I will be in San Diego at SoCAL NLP 2024!
 
 🍄 **November 2024** I will present [QUDSELECT](https://arxiv.org/abs/2408.01046) at ✨EMNLP 2024✨ in Miami 11 Nov - 17 Nov!
