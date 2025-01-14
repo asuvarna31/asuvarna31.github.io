@@ -28,4 +28,7 @@ I Read Books !!
 - [The Housemaid](https://www.goodreads.com/book/show/60556912-the-housemaid) by Frieda McFadden - *This book was exceedingly addictive. It transported me to the Long Island house where Millie 
   the housemaid, serves Nina a spoilt moody housewife and Andrew the dashing sweet rich guy who 
   dotes on his wife. I finished this book in two days xD*
+- Circe by Madeline Miller - *While this book had really good reviews and it exceptionally written, I go bored of the repetitive themes of vengence and isolation.*
+-[The Henna Artist](https://www.goodreads.com/book/show/50607466-the-henna-artist) by Alka Joshi - *If you are interested in a drama set around Independence in India, this is the perfect story. I was obsessed with the protagonist's struggles and business acument. To add to that, the auhthor's personal story is also very interesting.*
+  
 
