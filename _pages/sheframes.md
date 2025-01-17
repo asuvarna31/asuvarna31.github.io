@@ -12,3 +12,6 @@ This is a half-baked idea for a crowdsourced art project (if you are looking for
 
 <h2>Her Affirmations</h2>
 <img src="/images/IMG_0184.jpg" alt="Her Affirmations" width="80%">
+
+<h2>Her Stress-less Hairstyles</h2>
+<img src="/images/Untitled_Artwork 3.jpg" alt="Her Stress-less Hairstyles" width="80%">
