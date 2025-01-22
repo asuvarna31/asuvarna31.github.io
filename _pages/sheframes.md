@@ -5,10 +5,19 @@ permalink: /sheframes/
 author_profile: true
 ---
 <h1>SheFrames</h1>
-This is a half-baked idea for a crowdsourced art project (if you are looking for [my research](https://asuvarna31.github.io/pubs/)). Inspired by [this](https://drive.google.com/file/d/1-Z0FVo6oRq1WCxp8JKXMFfPDJ0Lf9Sj-/view) and [this](https://thetapstories.com/category/comics/comics-about-women-empowerment/) and [this](https://x.com/suvarna_ashima/status/1789950678875410727). While highlighting the challenges and struggles faced by women, especially in STEM is important, it is also important to celebrate womanhood. Of course it's inspirational to be a grander than life hero but it's relatable to be a fallible woman who still functions successfully in her chosen roles. I invite you to [share short stories](https://forms.gle/dDtQHR9eN71jhvu27) or artifacts that emphasizes your womanhood. I plan to illustrate them as small (amateurishly drawn) comics. 
+
+**SheFrames** is a crowdsourced art project (you can find my research [here](https://asuvarna31.github.io/pubs/)). Inspired by [this](https://drive.google.com/file/d/1-Z0FVo6oRq1WCxp8JKXMFfPDJ0Lf9Sj-/view) and [this](https://thetapstories.com/category/comics/comics-about-women-empowerment/) and [this](https://x.com/suvarna_ashima/status/1789950678875410727).
+
+Every woman’s journey in STEM is unique, and so is the way we celebrate our femininity while thriving in these spaces. Whether it’s through small daily rituals, bold expressions, or quiet moments of self-connection, your story matters. 
+
+How do you celebrate your womanhood in your daily life as a scientist, engineer, researcher, or professional? What small or big rituals, choices, or moments help you stay connected to your identity as a woman while breaking barriers in STEM?
+
+I’m inviting you to share your experiences and insights by filling out this [short form](https://forms.gle/dDtQHR9eN71jhvu27). It’s a space to celebrate yourself, connect with others, and contribute to a larger celebration of womanhood. I plan to illustrate them as small comics and share them on this page.  
 
 <h2>Her Magical Earrings</h2>
 <img src="/images/magic_earring.jpg" alt="Her Magical Earrings" width="80%">
+
+<!-- <h4>Through Her Eyes</h4>Confidence hoops to meri bhi kahani hai (Confidence hoops is my story as well). 2014 onwards I think I survived well due to my earrings. (This comic) Made me feel so good</h3> -->
 
 <h2>Her Affirmations</h2>
 <img src="/images/IMG_0184.jpg" alt="Her Affirmations" width="80%">
