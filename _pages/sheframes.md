@@ -14,16 +14,18 @@ How do you celebrate your womanhood in your daily life as a scientist, engineer,
 
 I’m inviting you to share your experiences and insights by filling out this [short form](https://forms.gle/dDtQHR9eN71jhvu27). It’s a space to celebrate yourself, connect with others, and contribute to a larger celebration of womanhood. I plan to illustrate them as small comics and share them on this page.
 
+Scroll to see all!!
+
 <h2>Shirley's Interview Tips</h2>
-<img src="/images/interview.jpg" alt="Shirley's Interview Tips" width="50%">
+<img src="/images/interview.jpg" alt="Shirley's Interview Tips" width="70%">
 
 <h2>Her Affirmations</h2>
-<img src="/images/IMG_0184.jpg" alt="Her Affirmations" width="50%">
+<img src="/images/IMG_0184.jpg" alt="Her Affirmations" width="70%">
 
 <h2>Ashima's Magical Earrings</h2>
-<img src="/images/magic_earring.jpg" alt="Her Magical Earrings" width="50%">
+<img src="/images/magic_earring.jpg" alt="Her Magical Earrings" width="70%">
 
 <!-- <h4>Through Her Eyes</h4>Confidence hoops to meri bhi kahani hai (Confidence hoops is my story as well). 2014 onwards I think I survived well due to my earrings. (This comic) Made me feel so good</h3> -->
 
 <h2>Piya's Stress-less Hairstyles</h2>
-<img src="/images/Untitled_Artwork 3.jpg" alt="Her Stress-less Hairstyles" width="50%">
+<img src="/images/Untitled_Artwork 3.jpg" alt="Her Stress-less Hairstyles" width="70%">
