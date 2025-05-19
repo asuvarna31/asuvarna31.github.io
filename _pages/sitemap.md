@@ -38,7 +38,7 @@ Accepted Papers
 <div class="preprints">
   <h3>Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization.</h3>
   Hritik Bansal*, <b>Ashima Suvarna</b>*, Gantavya Bhatt*, Nanyun Peng, Kai-Wei Chang, Aditya Grover.<br />
-DMLR Workshop @ ICML 2024 |
+ACL 2025 Findings, DMLR Workshop @ ICML 2024 |
   🌐 <a href="https://dove-alignment.github.io/" color="CornflowerBlue"> Website</a> |
   💻 <a href="https://github.com/Hritikbansal/dove" color="CornflowerBlue">Code</a> |
   📜 <a href="https://arxiv.org/abs/2404.00530" color="CornflowerBlue">Paper</a>
