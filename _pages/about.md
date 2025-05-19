@@ -10,7 +10,9 @@ redirect_from:
 
 This is Ashima, a PhD student at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). 
 
-My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair. My research achieves this by focusing on a) **fair detection of toxicity and harmful behaviors** and b) **studying misinformation in LLMs**. 
+I actively collaborate with Prof. Nanyun Peng, Prof. Kai-Wei Chang and Prof. Tom Hartvigsen. Additionally, I work with [datacomp] (https://www.datacomp.ai/) for reasoning data curation with Prof. Ludwig Schmidt. 
+
+My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair.  
 
 **Awards** <br/>
  ✨ UCLA Computer Science Fellowship 2024 <br/>
@@ -24,6 +26,8 @@ My research agenda centers on building equitable and socially responsible AI. As
 News
 ======
 ---
+🍄 **May 2025** [Joint Preference Optimization](https://arxiv.org/abs/2404.00530) got accepted to ACL Findings 2025! 
+
 🍄 **January 2025** Checkout [SheFrames](https://asuvarna31.github.io/sheframes/), a crowdsourced art project celebrating womanhood. Submit your stories [here](https://forms.gle/dDtQHR9eN71jhvu27). 
 
 🍄 **November 2024** [Evalchemy](https://github.com/mlfoundations/evalchemy) toolkit is launched for efficient LLM evaluations!
@@ -36,7 +40,7 @@ Service
 ======
 ---
 
-- **Reviewer:** ICLR Tiny Papers 2024, SoCal NLP Symposium 2023, Neurips D&B 2024 <br/>
+- **Reviewer:** ICLR Tiny Papers 2024, SoCal NLP Symposium 2023, Neurips D&B 2024, COLM 2025 <br/>
 
 <br/>
 ---
