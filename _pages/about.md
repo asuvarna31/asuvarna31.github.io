@@ -10,7 +10,7 @@ redirect_from:
 
 This is Ashima, a PhD student at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). 
 
-I actively collaborate with Prof. Nanyun Peng, Prof. Kai-Wei Chang and Prof. Tom Hartvigsen. Additionally, I work with [datacomp] (https://www.datacomp.ai/) for reasoning data curation with Prof. Ludwig Schmidt. 
+I actively collaborate with Prof. Nanyun Peng, Prof. Kai-Wei Chang and Prof. Tom Hartvigsen. Additionally, I work with [datacomp](https://www.datacomp.ai/) for reasoning data curation with Prof. Ludwig Schmidt. 
 
 My research agenda centers on building equitable and socially responsible AI. As humans interact with AI systems, it is imperative to ensure that these models are safe, inclusive and fair.  
 
