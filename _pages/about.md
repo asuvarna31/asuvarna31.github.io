@@ -29,13 +29,13 @@ News
 
 🍄 **June 2025** [OpenThoughts](https://arxiv.org/abs/2506.04178) preprint is out! We [release](https://x.com/ryanmart3n/status/1930671826159780014) the OpenThinker-7B, the new SOTA open-data 7B reasoning model!
 
+🍄 **June 2025** [AI Debate Aids Assessment of Controversial Claims](https://arxiv.org/abs/2506.02175) preprint is out!
+
 🍄 **May 2025** [Joint Preference Optimization](https://arxiv.org/abs/2404.00530) got accepted to ACL Findings 2025! 
 
 🍄 **January 2025** Checkout [SheFrames](https://asuvarna31.github.io/sheframes/), a crowdsourced art project celebrating womanhood. Submit your stories [here](https://forms.gle/dDtQHR9eN71jhvu27). 
 
 🍄 **November 2024** [Evalchemy](https://github.com/mlfoundations/evalchemy) toolkit is launched for efficient LLM evaluations!
-
-🍄 **October 2024** UCLA Initiative to Study Hate supports our work on [hate speech detection](https://studyofhate.ucla.edu/2024/10/24/community-grounded-hate-speech-detection/) through their Research Innovation Fund!
 
 <br/>
 
