@@ -13,14 +13,22 @@ Preprints
   <h3>ModelCitizens:Representing Community Voices in Online Safety</h3>
   <b>Ashima Suvarna</b>, Christina Chance, Karolina Naranjo, Hamid Palangi, Sophie Hao, Thomas Hartvigsen, Saadia Gabriel.
   📜 <a href="https://asuvarna31.github.io/files/modelcitizens.pdf" color="CornflowerBlue">Paper</a>
-  </div><br>
+  </div>
+
+  <div class="preprints">
+  <h3>OpenThoughts: Data Recipes for Reasoning Models</h3>
+  Etash Guha, Ryan Marten, Sedrick Keh, Negin Raoof, Georgios Smyrnis ... <b>Ashima Suvarna</b>,... Alexandros G. Dimakis, Ludwig Schmidt
+  📜 <a href="https://arxiv.org/abs/2506.04178" color="CornflowerBlue">Paper</a>
+  🌐 <a href="https://www.open-thoughts.ai/blog/ot3" color="CornflowerBlue"> Website</a> |
+  💻 <a href="https://github.com/open-thoughts/open-thoughts" color="CornflowerBlue">Code</a> |
+  </div>
 
   <div class="preprints">
   <h3>AI Debate Aids Assessment of Controversial Claims</h3>
   Salman Rahman, Sheriff Issaka, <b>Ashima Suvarna</b>, Genglin Liu, James Shiffer, Jaeyoung Lee, Md Rizwan Parvez, Hamid Palangi, Shi Feng, Nanyun Peng, Yejin Choi, Julian Michael, Liwei Jiang, Saadia Gabriel.
   📜 <a href="https://arxiv.org/abs/2506.02175" color="CornflowerBlue">Paper</a>
 <!--   🐦 <a href="https://twitter.com/yixin_wan_/status/1775580933208580139" color="CornflowerBlue">Tweet</a> -->
-  </div><br>
+  </div>
 
 <div class="preprints">
   <h3>Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation.</h3>
