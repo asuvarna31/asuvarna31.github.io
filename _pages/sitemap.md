@@ -10,11 +10,26 @@ Preprints
 ===
 
 <div class="preprints">
+  <h3>ModelCitizens:Representing Community Voices in Online Safety</h3>
+  <b>Ashima Suvarna</b>, Christina Chance, Karolina Naranjo, Hamid Palangi, Sophie Hao, Thomas Hartvigsen, Saadia Gabriel.
+  📜 <a href="https://asuvarna31.github.io/files/modelcitizens.pdf" color="CornflowerBlue">Paper</a>
+  </div><br>
+
+  <div class="preprints">
+  <h3>AI Debate Aids Assessment of Controversial Claims</h3>
+  Salman Rahman, Sheriff Issaka, <b>Ashima Suvarna</b>, Genglin Liu, James Shiffer, Jaeyoung Lee, Md Rizwan Parvez, Hamid Palangi, Shi Feng, Nanyun Peng, Yejin Choi, Julian Michael, Liwei Jiang, Saadia Gabriel.
+  📜 <a href="https://arxiv.org/abs/2506.02175" color="CornflowerBlue">Paper</a>
+<!--   🐦 <a href="https://twitter.com/yixin_wan_/status/1775580933208580139" color="CornflowerBlue">Tweet</a> -->
+  </div><br>
+
+<div class="preprints">
   <h3>Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation.</h3>
   Yixin Wan, Arjun Subramonian, Anaelia Ovalle, Zongyu Lin, <b>Ashima Suvarna</b>, Christina Chance, Hritik Bansal, Rebecca Pattichis, Kai-Wei Chang.
   📜 <a href="https://arxiv.org/abs/2404.01030" color="CornflowerBlue">Paper</a>
   🐦 <a href="https://twitter.com/yixin_wan_/status/1775580933208580139" color="CornflowerBlue">Tweet</a>
   </div><br>
+
+  
 
 
 
