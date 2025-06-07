@@ -26,6 +26,7 @@ My research agenda centers on building equitable and socially responsible AI. As
 News
 ======
 ---
+🍄 **June 2025** The preprint for my first phd paper [ModelCitizens: Representing Community Voices in Online Safety](https://asuvarna31.github.io/files/modelcitizens.pdf)!
 
 🍄 **June 2025** [OpenThoughts](https://arxiv.org/abs/2506.04178) preprint is out! We [release](https://x.com/ryanmart3n/status/1930671826159780014) the OpenThinker-7B, the new SOTA open-data 7B reasoning model!
 
@@ -33,9 +34,7 @@ News
 
 🍄 **May 2025** [Joint Preference Optimization](https://arxiv.org/abs/2404.00530) got accepted to ACL Findings 2025! 
 
-🍄 **January 2025** Checkout [SheFrames](https://asuvarna31.github.io/sheframes/), a crowdsourced art project celebrating womanhood. Submit your stories [here](https://forms.gle/dDtQHR9eN71jhvu27). 
-
-🍄 **November 2024** [Evalchemy](https://github.com/mlfoundations/evalchemy) toolkit is launched for efficient LLM evaluations!
+🌻 Checkout [SheFrames](https://asuvarna31.github.io/sheframes/), a crowdsourced art project celebrating womanhood. Submit your stories [here](https://forms.gle/dDtQHR9eN71jhvu27). 
 
 <br/>
 
@@ -43,7 +42,8 @@ Service
 ======
 ---
 
-- **Reviewer:** ICLR Tiny Papers 2024, SoCal NLP Symposium 2023, Neurips D&B 2024, COLM 2025 <br/>
+- **Reviewer:** ICLR Tiny Papers 2024, SoCal NLP Symposium 2023, Neurips D&B 2024, COLM 2024, COLM 2025, ACL May ARR 2025 <br/>
+- **Organizer:** [UCLA NLP Seminar Series](https://uclanlp.github.io/nlp-seminar/)
 
 <br/>
 ---
