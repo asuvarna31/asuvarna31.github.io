@@ -19,8 +19,8 @@ Preprints
   <h3>OpenThoughts: Data Recipes for Reasoning Models</h3>
   Etash Guha, Ryan Marten, Sedrick Keh, Negin Raoof, Georgios Smyrnis ... <b>Ashima Suvarna</b>,... Alexandros G. Dimakis, Ludwig Schmidt
   📜 <a href="https://arxiv.org/abs/2506.04178" color="CornflowerBlue">Paper</a>
-  🌐 <a href="https://www.open-thoughts.ai/blog/ot3" color="CornflowerBlue"> Website</a> |
-  💻 <a href="https://github.com/open-thoughts/open-thoughts" color="CornflowerBlue">Code</a> |
+  🌐 <a href="https://www.open-thoughts.ai/blog/ot3" color="CornflowerBlue"> Website</a> 
+  💻 <a href="https://github.com/open-thoughts/open-thoughts" color="CornflowerBlue">Code</a>
   </div>
 
   <div class="preprints">
@@ -36,9 +36,6 @@ Preprints
   📜 <a href="https://arxiv.org/abs/2404.01030" color="CornflowerBlue">Paper</a>
   🐦 <a href="https://twitter.com/yixin_wan_/status/1775580933208580139" color="CornflowerBlue">Tweet</a>
   </div><br>
-
-  
-
 
 
 Accepted Papers
@@ -74,3 +71,13 @@ ACL 2025 Findings, DMLR Workshop @ ICML 2024 |
   KnowledgeableLMs @ ACL 2024 | 📜 <a href="https://arxiv.org/abs/2404.02456" color="CornflowerBlue">Paper</a> | 🐦 <a href="https://x.com/suvarna_ashima/status/1777841777464295779" color="CornflowerBlue">Tweet</a>
 
 </div> <br>
+
+Open Source Contributions
+===
+<div class="preprints">
+  <h3>Evalchemy: A Unified Framework for Evaluating Reasoning in Language Models</h3>
+  Negin Raoof, Etash Kumar Guha, Ryan Marten, Jean Mercat, Eric Frankel, Sedrick Keh ... <b>Ashima Suvarna</b>,... Alexandros G. Dimakis, Ludwig Schmidt.<br />
+   💻 <a href="https://github.com/mlfoundations/evalchemy" color="CornflowerBlue">Code</a>
+  
+</div> 
+
