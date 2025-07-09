@@ -12,7 +12,8 @@ Preprints
 <div class="preprints">
   <h3>ModelCitizens:Representing Community Voices in Online Safety</h3>
   <b>Ashima Suvarna</b>, Christina Chance, Karolina Naranjo, Hamid Palangi, Sophie Hao, Thomas Hartvigsen, Saadia Gabriel.
-  📜 <a href="https://asuvarna31.github.io/files/modelcitizens.pdf" color="CornflowerBlue">Paper</a>
+  📜 <a href="https://arxiv.org/abs/2507.05455" color="CornflowerBlue">Paper</a>
+  💻 <a href="https://github.com/asuvarna31/modelcitizens" color="CornflowerBlue">Code</a>
   </div>
 
   <div class="preprints">
