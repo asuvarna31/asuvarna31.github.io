@@ -26,7 +26,7 @@ My research focuses on post-training data recipes and training paradigms for imp
 News
 ======
 ---
-🍄 **July 2025** The preprint for my first phd paper [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455)!
+🍄 **July 2025** The preprint for my first paper as a PhD student is out! [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455). 
 
 🍄 **June 2025** [OpenThoughts](https://arxiv.org/abs/2506.04178) preprint is out! We [release](https://x.com/ryanmart3n/status/1930671826159780014) the OpenThinker-7B, the new SOTA open-data 7B reasoning model!
 
