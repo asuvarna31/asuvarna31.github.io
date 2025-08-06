@@ -12,7 +12,7 @@ This is Ashima, a PhD student at UCLA CS advised by [Prof. Saadia Gabriel](https
 
 I actively collaborate with Prof. Nanyun Peng, Prof. Kai-Wei Chang and Prof. Tom Hartvigsen. Additionally, I work with [datacomp](https://www.datacomp.ai/) for data curation with Prof. Ludwig Schmidt. 
 
-My research focuses on post-training data recipes and training paradigms for improving the [reasoning capabilities](https://arxiv.org/abs/2506.04178),[alignment](https://aclanthology.org/2025.findings-acl.39/) and [safety](https://arxiv.org/abs/2507.05455)  of LLMs. I am currently exploring recipes to develop general-purpose reasoning models and software engineering agents.  
+My research focuses on post-training data recipes and training paradigms for improving the [reasoning] capabilities(https://arxiv.org/abs/2506.04178), [alignment](https://aclanthology.org/2025.findings-acl.39/) and [safety](https://arxiv.org/abs/2507.05455)  of LLMs. I am currently exploring recipes to develop general-purpose reasoning models and software engineering agents.  
 
 **Awards** <br/>
  ✨ UCLA Computer Science Fellowship 2024 <br/>
