@@ -16,6 +16,10 @@ I’m inviting you to share your experiences and insights by filling out this [s
 
 Scroll to see all!!
 
+<h2>Kitty's Shadow</h2>
+"Power resides where we believe it resides. A very small woman can cast a large shadow"
+<img src="/images/Describing_wheel_-_Color_(4).jpg" alt="Kitty's Shadow" width="50%">
+
 <h2>Shirley's Interview Tips</h2>
 <img src="/images/interview.jpg" alt="Shirley's Interview Tips" width="70%">
 
