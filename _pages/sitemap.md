@@ -37,7 +37,7 @@ Accepted Papers
 
 <div class="preprints">
   <h3>ModelCitizens: Representing Community Voices in Online Safety</h3>
-  <b>Ashima Suvarna</b>, Christina Chance, Karolina Naranjo, Hamid Palangi, Sophie Hao, Thomas Hartvigsen, Saadia Gabriel.
+  <b>Ashima Suvarna</b>, Christina Chance, Karolina Naranjo, Hamid Palangi, Sophie Hao, Thomas Hartvigsen, Saadia Gabriel. </br>
   EMNLP 2025 | 
   📜 <a href="https://arxiv.org/abs/2507.05455" color="CornflowerBlue">Paper</a>
   💻 <a href="https://github.com/asuvarna31/modelcitizens" color="CornflowerBlue">Code</a>
@@ -49,6 +49,7 @@ Accepted Papers
   <b>Ashima Suvarna</b>*, Xiao Liu*,Kai-Wei Chang, Nanyun Peng.<br />
   EMNLP 2024 |
   📜 <a href="https://arxiv.org/abs/2408.01046" color="CornflowerBlue">Paper</a>
+  💻 <a href="https://github.com/asuvarna31/qudselect" color="CornflowerBlue">Code</a> 
 </div>
   
 <div class="preprints">
