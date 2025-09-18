@@ -26,6 +26,8 @@ My research focuses on post-training data recipes and training paradigms for imp
 News
 ======
 ---
+🎉 **September 2025** [AI Debate Aids Assessment of Controversial Claims](https://arxiv.org/abs/2506.02175) is accepted to NeurIPS 2025! 
+
 🎉 **August 2025** [ModelCitizens](https://arxiv.org/abs/2507.05455) is accepted to EMNLP Main 2025! 
 
 🍄 **July 2025** The preprint for my first paper as a PhD student is out! [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455). 
