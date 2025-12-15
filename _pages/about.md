@@ -8,33 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-This is Ashima, a PhD student at UCLA CS advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). 
+I am a second-year PhD student in the Department of Computer Science at UCLA. I am fortunate to be advised by [Prof. Saadia Gabriel](https://saadia-gabriel.github.io/). 
 
-I actively collaborate with Prof. Nanyun Peng, Prof. Kai-Wei Chang and Prof. Tom Hartvigsen. Additionally, I work with [datacomp](https://www.datacomp.ai/) for data curation with Prof. Ludwig Schmidt. 
+My research focuses on post-training data recipes and training paradigms for improving the [reasoning](https://arxiv.org/abs/2506.04178) capabilities, [alignment](https://aclanthology.org/2025.findings-acl.39/) and [safety](https://arxiv.org/abs/2507.05455)  of LLMs. I am currently exploring recipes to develop general-purpose reasoning models and coding agents.  
 
-My research focuses on post-training data recipes and training paradigms for improving the [reasoning](https://arxiv.org/abs/2506.04178) capabilities, [alignment](https://aclanthology.org/2025.findings-acl.39/) and [safety](https://arxiv.org/abs/2507.05455)  of LLMs. I am currently exploring recipes to develop general-purpose reasoning models and software engineering agents.  
+I actively collaborate with other UCLA faculty, including Prof. Nanyun Peng, Prof. Kai-Wei Chang, Prof. Aditya Grover. Additionally, I work with [datacomp](https://www.datacomp.ai/) on open-source data curation (Prof. Ludwig Schimdt & Prof. Alex Dimakis). 
+
 
 **Awards** <br/>
  ✨ UCLA Computer Science Fellowship 2024 <br/>
  ✨ Google Deepmind Scholarship 2021-2023 (UCLA MSCS) <br/>
  ✨ Mitacs Globalink Research 2019 <br/>
 
-<!-- <div style="background-color: #ffd0b5; border-left: 4px solid #ffd0b5; padding: 15px; margin: 20px 0; border-radius: 4px;"> -->
-<!-- EMNLP 2024: QUDSELECT Poster on November 12, 2024 at 2 PM in the Riverfront Hall.   -->
-<!-- </div> -->
-
 News
 ======
 ---
+🍄 **December 2025** Check out the release of [Openthoughts-Agent](https://www.open-thoughts.ai/blog/agent)! 
+
 🎉 **September 2025** [AI Debate Aids Assessment of Controversial Claims](https://arxiv.org/abs/2506.02175) is accepted to NeurIPS 2025! 
 
 🎉 **August 2025** [ModelCitizens](https://arxiv.org/abs/2507.05455) is accepted to EMNLP Main 2025! 
-
-🍄 **July 2025** The preprint for my first paper as a PhD student is out! [ModelCitizens: Representing Community Voices in Online Safety](https://arxiv.org/abs/2507.05455). 
-
-🍄 **June 2025** [OpenThoughts](https://arxiv.org/abs/2506.04178) preprint is out! We [release](https://x.com/ryanmart3n/status/1930671826159780014) the OpenThinker-7B, the new SOTA open-data 7B reasoning model!
-
-🍄 **June 2025** [AI Debate Aids Assessment of Controversial Claims](https://arxiv.org/abs/2506.02175) preprint is out!
 
 🍄 **May 2025** [Joint Preference Optimization](https://arxiv.org/abs/2404.00530) got accepted to ACL Findings 2025! 
 
@@ -42,12 +35,6 @@ News
 
 <br/>
 
-Service
-======
----
-
-- **Reviewer:** ICLR Tiny Papers 2024, SoCal NLP Symposium 2023, Neurips D&B 2024, COLM 2024, COLM 2025, ACL May ARR 2025 <br/>
-- **Organizer:** [UCLA NLP Seminar Series](https://uclanlp.github.io/nlp-seminar/)
 
 <br/>
 ---
