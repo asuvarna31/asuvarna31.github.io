@@ -12,8 +12,6 @@ I am a second-year PhD student in the Department of Computer Science at UCLA. I 
 
 My research focuses on post-training data recipes and training paradigms for improving the [reasoning](https://arxiv.org/abs/2506.04178) capabilities, [alignment](https://aclanthology.org/2025.findings-acl.39/) and [safety](https://arxiv.org/abs/2507.05455)  of LLMs. I am currently exploring recipes to develop general-purpose reasoning models and coding agents.  
 
-I actively collaborate with other UCLA faculty, including Prof. Nanyun Peng, Prof. Kai-Wei Chang, Prof. Aditya Grover. Additionally, I work with [datacomp](https://www.datacomp.ai/) on open-source data curation (Prof. Ludwig Schimdt & Prof. Alex Dimakis). 
-
 
 **Awards** <br/>
  ✨ UCLA Computer Science Fellowship 2024 <br/>
@@ -23,6 +21,10 @@ I actively collaborate with other UCLA faculty, including Prof. Nanyun Peng, Pro
 News
 ======
 ---
+🍄 **June 2026** I am excited to join [Microsoft Research AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) as a research intern!
+
+🍄 **May 2026** Check out the release of SUPERNOVA!
+
 🍄 **December 2025** Check out the release of [Openthoughts-Agent](https://www.open-thoughts.ai/blog/agent)! 
 
 🎉 **September 2025** [AI Debate Aids Assessment of Controversial Claims](https://arxiv.org/abs/2506.02175) is accepted to NeurIPS 2025! 
