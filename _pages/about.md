@@ -22,11 +22,11 @@ News
 ======
 ---
 
-🍄 **August 2026** SUPERNOVA is accepted at EMNLP Findings 2026 and Efficient Reasoning Workshop@COLM 2026!
+🎉 **August 2026** [SUPERNOVA](https://arxiv.org/abs/2604.08477) is accepted to EMNLP Findings 2026 and Efficient Reasoning Workshop@COLM 2026!
 
 🍄 **July 2026** [Openthoughts-Agent](https://arxiv.org/abs/2606.24855) preprint is out!
 
-🍄 **June 2026** NORMVIZ accepted to COLM 2026! Grateful to Akhila for leading this collaboration. 
+🎉 **June 2026** NORMVIZ accepted to COLM 2026! Grateful to Akhila for leading this collaboration. 
 
 🍄 **June 2026** I am excited to join [Microsoft Research AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) as a research intern!
 
