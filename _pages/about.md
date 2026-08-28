@@ -14,6 +14,7 @@ My research focuses on post-training data recipes and training paradigms for imp
 
 
 **Awards** <br/>
+ ✨ Amazon Fellowship 2026 <br/>
  ✨ UCLA Computer Science Fellowship 2024 <br/>
  ✨ Google Deepmind Scholarship 2021-2023 (UCLA MSCS) <br/>
  ✨ Mitacs Globalink Research 2019 <br/>
@@ -21,6 +22,8 @@ My research focuses on post-training data recipes and training paradigms for imp
 News
 ======
 ---
+
+🎉 **September 2026** Grateful for being selected as Amazon Fellow 2026!
 
 🎉 **August 2026** [SUPERNOVA](https://arxiv.org/abs/2604.08477) is accepted to EMNLP Findings 2026 and Efficient Reasoning Workshop@COLM 2026!
 
